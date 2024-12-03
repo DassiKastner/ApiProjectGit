@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Web API\\lesson3 - Copy\\EX2\\EX2\\EX2.csproj": {}
+    "M:\\WebAPI\\w\\EX2\\EX2\\EX2.csproj": {}
   },
   "projects": {
-    "M:\\Web API\\lesson3 - Copy\\EX2\\EX2\\EX2.csproj": {
+    "M:\\WebAPI\\w\\EX2\\EX2\\EX2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Web API\\lesson3 - Copy\\EX2\\EX2\\EX2.csproj",
+        "projectUniqueName": "M:\\WebAPI\\w\\EX2\\EX2\\EX2.csproj",
         "projectName": "EX2",
-        "projectPath": "M:\\Web API\\lesson3 - Copy\\EX2\\EX2\\EX2.csproj",
+        "projectPath": "M:\\WebAPI\\w\\EX2\\EX2\\EX2.csproj",
         "packagesPath": "C:\\Users\\215702531\\.nuget\\packages\\",
-        "outputPath": "M:\\Web API\\lesson3 - Copy\\EX2\\EX2\\obj\\",
+        "outputPath": "M:\\WebAPI\\w\\EX2\\EX2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,7 +61,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.7.3, )"
+              "version": "[7.1.0, )"
             }
           },
           "imports": [
