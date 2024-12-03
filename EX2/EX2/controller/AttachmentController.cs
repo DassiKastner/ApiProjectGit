@@ -19,7 +19,7 @@ namespace EX2.controller
         public IActionResult addAttachment([FromQuery] string AttachName, string AttachPath,string UploadDate)
         {
             DataTable dt= _attachmentSerivce.addAttachment(AttachName, AttachPath, UploadDate);
-            return Ok("Attachment was created successfully!!!!!");
+            return Ok("Attachment was created successfully!!!!");
         }
         
         [HttpGet]
